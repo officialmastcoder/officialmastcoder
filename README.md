@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, Welcome to Mastcoder </h1>
+<h1 align="center">Hey There 👋, Welcome to Mastcoder </h1>
 <h3 align="center">A Software Engineer Specialized in Web and Android </h3>
 <img align="right" alt="Programmer" width="400" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif">
 
