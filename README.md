@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="WhatsApp Me" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=+15395001134&text=Hi,%20I%20am%20from%20your%20Git%20Profile%20i%20need%20co%20connect%20with%20you&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
