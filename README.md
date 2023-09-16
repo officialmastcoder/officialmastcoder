@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋, Welcome to Mastcoder </h1>
 <h3 align="center">A Software Engineer Specialized in Web and Android </h3>
-<img style="border-radius:10;" align="right" alt="Mastcoder - Programmer" width="400" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif">
+<img border-radius="10" align="right" alt="Mastcoder - Programmer" width="400" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialmastcoder&label=Profile%20views&color=blueviolet&style=flat" alt="Mastcoder" /> </p>
 
