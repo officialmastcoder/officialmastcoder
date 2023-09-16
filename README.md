@@ -19,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialmastcoder&show_icons=true&locale=en" alt="officialmastcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialmastcoder&" alt="officialmastcoder" /></p>
+<p>
+  <img src="https://media1.giphy.com/media/yYSSBtDgbbRzq/200.webp" width="305" height="312" id="myPicture" alt="Mastcoder">
+  <img src="https://media4.giphy.com/media/vzO0Vc8b2VBLi/200.webp" width="305" height="312" id="myPicture" alt="Mastcoder">
+</p>
