@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **c++, PHP, Laravel, Codeigniter, javascript and java**
+- 💬 Ask me about **C++, PHP, Python, Laravel, Codeigniter, Javascript and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
